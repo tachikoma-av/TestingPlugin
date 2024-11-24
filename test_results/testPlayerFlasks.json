@@ -1,0 +1,7 @@
+{
+  "name": "testPlayerFlasks",
+  "passed": false,
+  "failure_reasons": [
+    "flasks_count 3, expected 5"
+  ]
+}

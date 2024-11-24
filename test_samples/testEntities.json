@@ -1,0 +1,32 @@
+{
+    "expected_area_raw_name": "1_1_town",
+    "entities_to_test": [
+        {
+            "metadata": "Metadata/NPC/Act1/Nessa",
+            "grid_pos_x": 346,
+            "grid_pos_y": 270,
+            "targetable": true,
+            "id": 1,
+            "render_name": "Nessa",
+            "type_str": "Npc"
+        },
+        {
+            "metadata": "Metadata/MiscellaneousObjects/Stash",
+            "grid_pos_x": 313,
+            "grid_pos_y": 279,
+            "targetable": true,
+            "id": 8,
+            "render_name": "Stash",
+            "type_str": "Stash"
+        },
+        {
+            "metadata": "Metadata/MiscellaneousObjects/Waypoint",
+            "grid_pos_x": 256,
+            "grid_pos_y": 169,
+            "targetable": true,
+            "id": null,
+            "render_name": "Waypoint",
+            "type_str": "Waypoint"
+        }
+    ]
+}

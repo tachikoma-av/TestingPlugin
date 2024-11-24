@@ -1,0 +1,7 @@
+{
+  "name": "testKirakMissions",
+  "passed": false,
+  "failure_reasons": [
+    "GameController.IngameState.IngameUi.ZanaMissionChoice.IsVisible == false"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "testPurchaseHideoutWindow",
+  "passed": false,
+  "failure_reasons": [
+    "GameController.IngameState.IngameUi.PurchaseWindowHideout.IsVisible == false"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+    "expected_stash_tab_index": 0,
+    "items_to_test": [
+        {
+            "name" : "Scroll of Wisdom",
+            "render_path" : "Art/2DItems/Currency/CurrencyIdentification.dds",
+            "metadata" : "Metadata/Items/Currency/CurrencyIdentification",
+            "stack_size" : 3
+        },
+        {
+                        
+            "name" : "Driftwood Wand", 
+            "render_path" : "Art/2DItems/Weapons/OneHandWeapons/Wands/Wand1.dds",
+            "metadata" : "Metadata/Items/Weapons/OneHandWeapons/Wands/Wand1",
+            "socket_group" : ["BB"],
+            "item_mods": null
+        }
+    ]
+}

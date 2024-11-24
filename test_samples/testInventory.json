@@ -1,0 +1,22 @@
+{
+    "items_to_test": [
+        {
+            "name" : "Scroll of Wisdom",
+            "render_path" : "Art/2DItems/Currency/CurrencyIdentification.dds",
+            "metadata" : "Metadata/Items/Currency/CurrencyIdentification",
+            "stack_size" : 3,
+            "grid_position" : [0,0],
+            "grid_position_size" : [1,1]
+        },
+        {
+                        
+            "name" : "Driftwood Wand", 
+            "render_path" : "Art/2DItems/Weapons/OneHandWeapons/Wands/Wand1.dds",
+            "metadata" : "Metadata/Items/Weapons/OneHandWeapons/Wands/Wand1",
+            "grid_position" : [1,0],
+            "grid_position_size" : [1,3],
+            "socket_group" : ["BB"],
+            "item_mods": null
+        }
+    ]
+}

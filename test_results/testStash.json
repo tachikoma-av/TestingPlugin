@@ -1,0 +1,7 @@
+{
+  "name": "testStash",
+  "passed": false,
+  "failure_reasons": [
+    "item_test_result with metadata Metadata/Items/Currency/CurrencyIdentification: StackSize 1, expected 3"
+  ]
+}

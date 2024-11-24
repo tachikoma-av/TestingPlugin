@@ -1,0 +1,8 @@
+{
+  "name": "testItemsOnGroundLabelsVisible",
+  "passed": false,
+  "failure_reasons": [
+    "entities_to_test.Count() 0, expected 1 metadata Metadata/MiscellaneousObjects/WorldItem",
+    "entities_to_test.Count() 0, expected 1 metadata Metadata/MiscellaneousObjects/AreaTransition"
+  ]
+}

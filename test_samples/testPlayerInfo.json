@@ -1,0 +1,9 @@
+{
+    "expected_player_entity_render_name": "Witch",
+    "expected_player_entity_path": "Metadata/Characters/Int/Int", 
+    "expected_player_level": 2,
+    "expected_player_strength": 14,
+    "expected_player_intelligence": 14,
+    "expected_player_dexterity": 14,
+    "expected_player_name": "MYNAME"
+}

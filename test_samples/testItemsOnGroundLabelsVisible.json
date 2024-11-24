@@ -1,0 +1,24 @@
+{
+    "expected_area_raw_name": "1_1_2",
+    "entities_to_test": [
+        {
+            "metadata": "Metadata/MiscellaneousObjects/WorldItem",
+            "grid_pos_x": null,
+            "grid_pos_y": null,
+            "targetable": true,
+            "id": null,
+            "resource_path":"Art/2DItems/Currency/CurrencyIdentification.dds",
+            "render_name": null,
+            "type_str": "WorldItem"
+        },
+        {
+            "metadata": "Metadata/MiscellaneousObjects/AreaTransition",
+            "grid_pos_x": null,
+            "grid_pos_y": null,
+            "targetable": true,
+            "id": null,
+            "render_name": "Lioneye's Watch",
+            "type_str": "AreaTransition"
+        }
+    ]
+}

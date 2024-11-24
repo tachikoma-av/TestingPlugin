@@ -1,0 +1,7 @@
+{
+  "name": "testMapDevice",
+  "passed": false,
+  "failure_reasons": [
+    "GameController.IngameState.IngameUi.MapDeviceWindow.IsVisible == false"
+  ]
+}

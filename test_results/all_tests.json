@@ -1,0 +1,82 @@
+[
+  {
+    "name": "testGameWindow",
+    "passed": true,
+    "failure_reasons": []
+  },
+  {
+    "name": "testGameStates",
+    "passed": true,
+    "failure_reasons": []
+  },
+  {
+    "name": "testPlayerInfo",
+    "passed": false,
+    "failure_reasons": [
+      "player_component.PlayerName IKASDMZLASD, expected to be MYNAME"
+    ]
+  },
+  {
+    "name": "testArea",
+    "passed": true,
+    "failure_reasons": []
+  },
+  {
+    "name": "testPlayerFlasks",
+    "passed": false,
+    "failure_reasons": [
+      "flasks_count 3, expected 5"
+    ]
+  },
+  {
+    "name": "testPlayerSkills",
+    "passed": true,
+    "failure_reasons": []
+  },
+  {
+    "name": "testEntities",
+    "passed": true,
+    "failure_reasons": []
+  },
+  {
+    "name": "testItemsOnGroundLabelsVisible",
+    "passed": false,
+    "failure_reasons": [
+      "entities_to_test.Count() 0, expected 1 metadata Metadata/MiscellaneousObjects/WorldItem",
+      "entity_test_result with metadata Metadata/MiscellaneousObjects/AreaTransition: entity_to_test.RenderName The Coast, expected Lioneye's Watch"
+    ]
+  },
+  {
+    "name": "testInventory",
+    "passed": true,
+    "failure_reasons": []
+  },
+  {
+    "name": "testStash",
+    "passed": false,
+    "failure_reasons": [
+      "item_test_result with metadata Metadata/Items/Currency/CurrencyIdentification: StackSize 1, expected 3"
+    ]
+  },
+  {
+    "name": "testMapDevice",
+    "passed": false,
+    "failure_reasons": [
+      "GameController.IngameState.IngameUi.MapDeviceWindow.IsVisible == false"
+    ]
+  },
+  {
+    "name": "testKirakMissions",
+    "passed": false,
+    "failure_reasons": [
+      "GameController.IngameState.IngameUi.ZanaMissionChoice.IsVisible == false"
+    ]
+  },
+  {
+    "name": "testPurchaseHideoutWindow",
+    "passed": false,
+    "failure_reasons": [
+      "GameController.IngameState.IngameUi.PurchaseWindowHideout.IsVisible == false"
+    ]
+  }
+]

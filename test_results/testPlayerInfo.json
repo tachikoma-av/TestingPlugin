@@ -1,0 +1,7 @@
+{
+  "name": "testPlayerInfo",
+  "passed": false,
+  "failure_reasons": [
+    "player_component.PlayerName IKASDMZLASD, expected to be MYNAME"
+  ]
+}

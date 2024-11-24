@@ -1,0 +1,7 @@
+{
+    "expected_skill_name" : "raise_zombie",
+    "expected_skill_use_status" : true,
+    "expected_skill_uses_per_100_seconds" : 118,
+    "skill_description_to_test_key" : "NumberOfZombiesAllowed", 
+    "skill_description_to_test_value" : 3
+}
