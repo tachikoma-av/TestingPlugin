@@ -39,6 +39,7 @@ test_results.Add(testKirakMissions()); // ok, open kirak missions, kirak mission
 test_results.Add(testPurchaseHideoutWindow()); // ok, open trade window with kirak to buy maps\etc
 
 ## TODO
+- prettier, it's ugly
 - default hotkey null
 - player, skill tree information
 - items, mod list
